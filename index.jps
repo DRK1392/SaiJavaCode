@@ -1,1 +1,8 @@
-This is aws project 
+This is aws project
+This is sample maven build job
+Tools are used in this project are
+git
+maven
+jenkins
+tomcat
+ 
